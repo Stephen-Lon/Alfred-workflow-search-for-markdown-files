@@ -7,7 +7,7 @@ The workflow searches for markdown files in a folder within Alfred's default sea
 
 # Usage
 
-Type the workflow keyword (the default is `fmd`—for "Find markdown"—but you can change it in the configuration). You will be prompted to choose a folder in which to search. Press <kbd><space></kbd> and start typing the name of the folder in which you wish to search. Press <kbd>⏎</kbd> when the relevant folder name is displayed (or select the relevant folder if more than one is displayed) and you will see a grid of thumbnails of the markdown files in that folder with the full name of and path to the selected thumbnail displayed at the bottom.
+Type the workflow keyword (the default is `fmd`—for "Find markdown"—but you can change it in the configuration). You will be prompted to choose a folder in which to search. Press <kbd>space</kbd> and start typing the name of the folder in which you wish to search. Press <kbd>⏎</kbd> when the relevant folder name is displayed (or select the relevant folder if more than one is displayed) and you will see a grid of thumbnails of the markdown files in that folder with the full name of and path to the selected thumbnail displayed at the bottom.
 
 In that view you can do a number of things:
 - Move through the thumbnails using the arrow keys.
